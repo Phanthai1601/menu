@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Minh họa bảng</title>
+<meta charset="UTF-8">
+</head>
+<body>
+	<table cellpadding="5px" width="800px" border="1" align="center" style="border-collapse:collapse">
+		<caption>
+			<h1>BẢNG KẾT QUẢ THI MÔN LẬP TRÌNH C</h1>
+		</caption>
+		<thead>
+			<tr>
+				<th rowspan="2">STT</th>
+				<th rowspan="2">Họ và tên</th>
+				<th colspan="2">Năm sinh</th>
+				<th colspan="2">Kết quả</th>
+				<th rowspan="2">Xếp loại</th>
+			</tr>
+			<tr>
+				<th>Nam</th>
+				<th>Nữ</th>
+				<th>Lý thuyết</th>
+				<th>Thực hành</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<td align="center">1</td>
+				<td>Nguyễn Thị Vân Anh</td>
+				<td></td>
+				<td align="center">1980</td>
+				<td align="right">80</td>
+				<td align="right">90</td>
+				<td align="center">Giỏi</td>
+			</tr>
+			<tr>
+				<td align="center">1</td>
+				<td>Nguyễn Thị Vân Anh</td>
+				<td></td>
+				<td align="center">1980</td>
+				<td align="right">80</td>
+				<td align="right">90</td>
+				<td align="center">Giỏi</td>
+			</tr>
+			<tr>
+				<td align="center">1</td>
+				<td>Nguyễn Thị Vân Anh</td>
+				<td></td>
+				<td align="center">1980</td>
+				<td align="right">80</td>
+				<td align="right">90</td>
+				<td align="center">Giỏi</td>
+			</tr>
+			<tr>
+				<td align="center">1</td>
+				<td>Nguyễn Thị Vân Anh</td>
+				<td></td>
+				<td align="center">1980</td>
+				<td align="right">80</td>
+				<td align="right">90</td>
+				<td align="center">Giỏi</td>
+			</tr>
+		</tbody>
+	</table>
+	<ul type="circle">
+		<li>Coffee</li>
+		<li>Tea</li>
+		<li>Milk</li>
+	</ul>
+	<hr>
+	<ol type="i" reversed>
+		<li>Coffee</li>
+		<li>Tea</li>
+		<li>Milk</li>
+	</ol>
+</body>
+</html>
